@@ -1,4 +1,4 @@
-### **Description**
+o### **Description**
 
 **IDOR Hunter** is a Burp Suite extension designed to automate the detection of **Insecure Direct Object Reference (IDOR)** vulnerabilities by replaying captured requests with different authentication contexts.\
 It captures a baseline request (e.g. from *User A*) alice example: /profile/1 = alice profile, then automatically duplicates it using cookies, tokens, or credentials from other configured profiles (e.g. *User B*) bob.\
@@ -38,4 +38,20 @@ It's basically a smart "Repeater + auth swapper" -> a lightweight automation lay
 ## Maches:
 
 <img width="1916" height="478" alt="image" src="https://github.com/user-attachments/assets/ecfc052c-34fe-49da-8386-c65f29a0358d" />
+
+
+---
+
+<div align="center">
+  <h3>☕ Support My Journey</h3>
+</div>
+
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tobiasguta">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+  </a>
+</div>
+
+---
 
