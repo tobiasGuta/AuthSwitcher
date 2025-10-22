@@ -4,7 +4,7 @@
 It captures a baseline request (e.g. from *User A*), then automatically duplicates it using cookies, tokens, or credentials from other configured profiles (e.g. *User B*).\
 If the duplicate response exposes the same user-specific data (such as names, emails, or account IDs), the extension flags it as a potential IDOR.
 
-It's basically a smart "Repeater + auth swapper" --- a lightweight automation layer to catch access control flaws that normal fuzzers miss.
+It's basically a smart "Repeater + auth swapper" -> a lightweight automation layer to catch access control flaws that normal fuzzers miss.
 
 * * * * *
 
