@@ -40,6 +40,8 @@ It's basically a smart "Repeater + auth swapper" -> a lightweight automation lay
 <img width="1916" height="478" alt="image" src="https://github.com/user-attachments/assets/ecfc052c-34fe-49da-8386-c65f29a0358d" />
 
 
+# Support
+If my tool helped you land a bug bounty, consider buying me a coffee ☕️ as a small thank-you! Everything I build is free, but a little support helps me keep improving and creating more cool stuff ❤️
 ---
 
 <div align="center">
